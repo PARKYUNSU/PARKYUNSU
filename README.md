@@ -6,9 +6,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://yourusername.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunsu.park@example.com)
 
-
-
-
 ---
 
 ## 🌟 About Me
@@ -58,11 +55,10 @@ Reach me at **yunsu4846@naver.com**
 ---
 
 
-
 ## 📊 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKYUNSU&theme=dark&show_icons=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PARKYUNSU&theme=dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARKYUNSU&layout=compact&theme=dark)
+
 
 
