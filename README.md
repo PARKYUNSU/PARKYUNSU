@@ -46,15 +46,11 @@ I enjoy solving challenging real-world problems using deep learning and computer
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-FF5722?style=for-the-badge&logo=scrapy&logoColor=white)
 
-
-
 ### Deployment & Optimization
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![Lightning](https://img.shields.io/badge/Lightning-0072EF?style=for-the-badge&logo=lightning&logoColor=white)
-
 
 
 ---
