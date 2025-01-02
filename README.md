@@ -1,3 +1,4 @@
+![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Yunsu's+AI+World!)
 # 👋 Welcome to YUNSU PARK's GitHub Profile!
 ## 🌍 Connect with Me
 
@@ -6,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunsu.park@example.com)
 
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Yunsu's+AI+World!)
+
 
 ---
 
