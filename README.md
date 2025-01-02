@@ -19,8 +19,6 @@ Learning **Edge AI deployment** and **real-time CV optimization**
 
 Ask me about **computer vision, OpenCV, or model optimization**
 
-Reach me at **yunsu4846@naver.com**
-
 ---
 
 ## 🛠️ My Skills
