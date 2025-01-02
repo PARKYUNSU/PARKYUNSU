@@ -1,4 +1,10 @@
 # 👋 Welcome to YUNSU PARK's GitHub Profile!
+## 🌍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yunsu-park)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://yourusername.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunsu.park@example.com)
+
 
 ![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Yunsu's+AI+World!)
 
@@ -54,11 +60,4 @@ I enjoy solving challenging real-world problems using deep learning and computer
 ![Lightning](https://img.shields.io/badge/Lightning-0072EF?style=for-the-badge&logo=lightning&logoColor=white)
 
 
----
-
-## 🌍 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yunsu-park)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://yourusername.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunsu.park@example.com)
 
