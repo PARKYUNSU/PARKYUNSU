@@ -1,4 +1,5 @@
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Yunsu's+AI+World!)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20YUNSU%20PARK's%20GitHub&fontSize=50&fontAlign=50&fontAlignY=40&desc=AI%20Engineer%20and%20Visionary%20Developer&descAlign=50&descAlignY=55)
+
 # 👋 Welcome to YUNSU PARK's GitHub Profile!
 ## 🌍 Connect with Me
 
