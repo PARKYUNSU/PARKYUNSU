@@ -25,15 +25,6 @@ Reach me at **yunsu4846@naver.com**
 
 ---
 
-## 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKYUNSU&theme=dark&show_icons=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PARKYUNSU&theme=dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARKYUNSU&layout=compact&theme=dark)
-
-
----
-
 ## 🛠️ My Skills
 
 ### Programming Languages
@@ -63,5 +54,14 @@ Reach me at **yunsu4846@naver.com**
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Lightning](https://img.shields.io/badge/Lightning-0072EF?style=for-the-badge&logo=lightning&logoColor=white)
 
+---
+
+
+
+## 📊 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKYUNSU&theme=dark&show_icons=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PARKYUNSU&theme=dark&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARKYUNSU&layout=compact&theme=dark)
 
 
