@@ -19,9 +19,10 @@ I enjoy solving challenging real-world problems using deep learning and computer
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark&show_icons=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKYUNSU&theme=dark&show_icons=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PARKYUNSU&theme=dark&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARKYUNSU&layout=compact&theme=dark)
+
 
 ---
 
