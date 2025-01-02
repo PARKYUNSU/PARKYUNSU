@@ -14,10 +14,10 @@
 Hi! I'm **YUNSU PARK**, an enthusiastic AI engineer with a passion for **computer vision** and **OpenCV-based applications**.  
 I enjoy solving challenging real-world problems using deep learning and computer vision techniques.
 
-- 🔭 Currently working on **Advanced Object Detection with OpenCV**
-- 🌱 Learning **Edge AI deployment** and **real-time CV optimization**
-- 💬 Ask me about **computer vision, OpenCV, or model optimization**
-- 📫 Reach me at **yunsu.park@example.com**
+Currently working on **Advanced Object Detection with OpenCV**
+Learning **Edge AI deployment** and **real-time CV optimization**
+Ask me about **computer vision, OpenCV, or model optimization**
+Reach me at **yunsu4846@naver.com**
 
 ---
 
