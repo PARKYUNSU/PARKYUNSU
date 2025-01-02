@@ -1,5 +1,4 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=PARKYUNSU.PARKYUNSU)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPARKYUNSU&count_bg=%2379C83D&title_bg=%23555555&icon=digitalocean.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20YUNSU%20PARK's%20GitHub&fontSize=50&fontAlign=50&fontAlignY=40&desc=AI%20Engineer%20and%20Visionary%20Developer&descAlign=50&descAlignY=55)
 
