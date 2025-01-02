@@ -7,7 +7,6 @@
 [![Naver Mail](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:yunsu4846@naver.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qkrdbstn24@gmail.com)
 
----
 
 Hi! I'm **YUNSU PARK**, an enthusiastic AI engineer with a passion for **computer vision** and **OpenCV-based applications**.
 
