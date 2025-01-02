@@ -2,14 +2,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20YUNSU%20PARK's%20GitHub&fontSize=50&fontAlign=50&fontAlignY=40&desc=AI%20Engineer%20and%20Visionary%20Developer&descAlign=50&descAlignY=55)
 
-## 🌍 Connect with Me
+## 📩 Connect with Me
 
 [![Naver Mail](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:yunsu4846@naver.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qkrdbstn24@gmail.com)
 
 ---
 
-## 🌟 About Me
 Hi! I'm **YUNSU PARK**, an enthusiastic AI engineer with a passion for **computer vision** and **OpenCV-based applications**.
 
 I enjoy solving challenging real-world problems using deep learning and computer vision techniques.
