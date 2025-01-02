@@ -26,11 +26,6 @@ I enjoy solving challenging real-world problems using deep learning and computer
 
 ## 🛠️ My Skills
 
-### Frameworks & Tools
-
-
-
-
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -46,9 +41,12 @@ I enjoy solving challenging real-world problems using deep learning and computer
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
 
 ### Data Processing & Web Scraping
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-3C8DBC?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-FF5722?style=for-the-badge&logo=scrapy&logoColor=white)
+
+
 
 ### Deployment & Optimization
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
