@@ -50,9 +50,3 @@ I enjoy solving challenging real-world problems using deep learning and computer
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://yourusername.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunsu.park@example.com)
 
----
-
-## ✨ Fun Fact
-
-📸 I love experimenting with real-time video processing in OpenCV!  
-🎮 When not coding, I enjoy playing simulation games and exploring new gadgets.
