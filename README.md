@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Welcome to YUNSU PARK's GitHub Profile!
 
 ![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Yunsu's+AI+World!)
