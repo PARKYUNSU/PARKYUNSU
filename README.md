@@ -8,15 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qkrdbstn24@gmail.com)
 
 
-Hi! I'm **YUNSU PARK**, an enthusiastic AI engineer with a passion for **computer vision** and **OpenCV-based applications**.
-
-I enjoy solving challenging real-world problems using deep learning and computer vision techniques.
-
-Currently working on **Advanced Object Detection with OpenCV**
-
-Learning **Edge AI deployment** and **real-time CV optimization**
-
-Ask me about **computer vision, OpenCV, or model optimization**
 
 ---
 
