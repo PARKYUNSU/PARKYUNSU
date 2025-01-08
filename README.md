@@ -7,9 +7,9 @@
 [![Naver Mail](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:yunsu4846@naver.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qkrdbstn24@gmail.com)
 
-I am an AI engineer with expertise in computer vision (CV), natural language processing (NLP), and text-to-speech (TTS).
+I am an AI engineer specializing in CNN-based object detection, segmentation, and classification using PyTorch. I strive to advance practical AI solutions through scalable methods that balance performance and computational efficiency.
 
-I specialize in CNN-based object detection, segmentation, and classification using PyTorch, striving to advance practical AI solutions through scalable methods that balance performance and computational efficiency.
+In addition to computer vision (CV), I have a strong interest in natural language processing (NLP) and text-to-speech (TTS) systems, exploring innovative approaches to integrate these fields effectively.
 
 My primary areas of focus:
 
