@@ -11,7 +11,7 @@ I am an AI engineer specializing in CNN-based object detection, segmentation, an
 
 In addition to computer vision (CV), I have a strong interest in natural language processing (NLP) and text-to-speech (TTS), exploring innovative approaches to integrate these fields effectively.
 
-My primary areas of focus:
+My primary areas of focus
 
 - Develop lightweight models for resource-constrained environments
 - Conduct research on image retrieval
