@@ -21,7 +21,7 @@ My primary areas of focus:
 - Work with GLIGEN and ControlNet for advanced generative tasks
 - Develop GAN and Diffusion-based clothing synthesis models
 
-👋 If you have any questions about AI, feel free to email me!
+### 👋 If you have any questions about AI, feel free to email me!
 
 
 ## 🛠️ My Skills
