@@ -7,7 +7,11 @@
 [![Naver Mail](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:yunsu4846@naver.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qkrdbstn24@gmail.com)
 
+I am an AI engineer with expertise in computer vision (CV) and a strong interest in natural language processing (NLP) and text-to-speech (TTS) systems. My primary areas of focus include image retrieval, self-supervised learning, few-shot and zero-shot learning, as well as tackling challenges in noisy image segmentation using JointNet and addressing data-scarce scenarios.
 
+I specialize in CNN-based object detection, segmentation, and classification using PyTorch and have a keen interest in advancing practical AI solutions through efficient and scalable methods.
+
+Feel free to modify it further if you'd like to emphasize any specific aspect!
 
 ---
 
