@@ -9,16 +9,18 @@
 
 I am an AI engineer specializing in CNN-based object detection, segmentation, and classification using PyTorch. I strive to advance practical AI solutions through scalable methods that balance performance and computational efficiency.
 
-In addition to computer vision (CV), I have a strong interest in natural language processing (NLP) and text-to-speech (TTS) systems, exploring innovative approaches to integrate these fields effectively.
+In addition to computer vision (CV), I have a strong interest in natural language processing (NLP) and text-to-speech (TTS), exploring innovative approaches to integrate these fields effectively.
 
 My primary areas of focus:
 
-- Developing lightweight models for resource-constrained environments
-- Image retrieval
-- Self-supervised learning
-- Few-shot and zero-shot learning
-- Tackling challenges in noisy image segmentation using JointNet
-- Addressing data-scarce scenarios
+- Develop lightweight models for resource-constrained environments
+- Conduct research on image retrieval
+- Explore self-supervised learning methods
+- Apply few-shot and zero-shot learning techniques
+- Address challenges in noisy image segmentation using JointNet
+- Solve problems in data-scarce scenarios
+- Work with GLIGEN and ControlNet for advanced generative tasks
+- Develop GAN-based clothing synthesis models
 
 Feel free to modify it further if you'd like to emphasize any specific aspect!
 ---
