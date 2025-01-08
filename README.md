@@ -16,9 +16,8 @@ My primary areas of focus:
 - Develop lightweight models for resource-constrained environments
 - Conduct research on image retrieval
 - Explore self-supervised learning methods
-- Apply few-shot and zero-shot learning techniques
+- Solve problems in data-scarce scenarios with few-shot and zero-shot learning techniques
 - Address challenges in noisy image segmentation using JointNet
-- Solve problems in data-scarce scenarios
 - Work with GLIGEN and ControlNet for advanced generative tasks
 - Develop GAN-based clothing synthesis models
 
