@@ -14,12 +14,13 @@ Feel free to modify it further if you'd like to emphasize any specific aspect!
 
 
 My primary areas of focus:
-Developing lightweight and efficient models for deployment in resource-constrained environments
-Image retrieval
-Self-supervised learning
-Few-shot and zero-shot learning
-Tackling challenges in noisy image segmentation using JointNet
-Addressing data-scarce scenarios
+
+- Developing lightweight models for resource-constrained environments
+- Image retrieval
+- Self-supervised learning
+- Few-shot and zero-shot learning
+- Tackling challenges in noisy image segmentation using JointNet
+- Addressing data-scarce scenarios
 
 
 ---
