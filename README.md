@@ -7,11 +7,20 @@
 [![Naver Mail](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:yunsu4846@naver.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qkrdbstn24@gmail.com)
 
-I am an AI engineer with expertise in computer vision (CV), natural language processing (NLP), and text-to-speech (TTS). My primary areas of focus include a strong emphasis on developing lightweight and efficient models for deployment in resource-constrained environments, image retrieval, self-supervised learning, few-shot and zero-shot learning, as well as tackling challenges in noisy image segmentation using JointNet and addressing data-scarce scenarios.
+I am an AI engineer with expertise in computer vision (CV), natural language processing (NLP), and text-to-speech (TTS).
 
 I specialize in CNN-based object detection, segmentation, and classification using PyTorch, striving to advance practical AI solutions through scalable methods that balance performance and computational efficiency.
-
 Feel free to modify it further if you'd like to emphasize any specific aspect!
+
+
+My primary areas of focus:
+Developing lightweight and efficient models for deployment in resource-constrained environments
+Image retrieval
+Self-supervised learning
+Few-shot and zero-shot learning
+Tackling challenges in noisy image segmentation using JointNet
+Addressing data-scarce scenarios
+
 
 ---
 
