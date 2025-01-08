@@ -23,7 +23,6 @@ My primary areas of focus:
 
 Feel free to modify it further if you'd like to emphasize any specific aspect!
 
----
 
 ## 🛠️ My Skills
 
