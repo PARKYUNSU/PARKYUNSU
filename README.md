@@ -10,8 +10,6 @@
 I am an AI engineer with expertise in computer vision (CV), natural language processing (NLP), and text-to-speech (TTS).
 
 I specialize in CNN-based object detection, segmentation, and classification using PyTorch, striving to advance practical AI solutions through scalable methods that balance performance and computational efficiency.
-Feel free to modify it further if you'd like to emphasize any specific aspect!
-
 
 My primary areas of focus:
 
@@ -22,7 +20,7 @@ My primary areas of focus:
 - Tackling challenges in noisy image segmentation using JointNet
 - Addressing data-scarce scenarios
 
-
+Feel free to modify it further if you'd like to emphasize any specific aspect!
 ---
 
 ## 🛠️ My Skills
