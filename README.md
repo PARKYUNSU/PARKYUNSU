@@ -19,7 +19,7 @@ My primary areas of focus
 - Solve problems in data-scarce scenarios with few-shot and zero-shot learning techniques
 - Address challenges in noisy image segmentation using JointNet
 - Work with GLIGEN and ControlNet for advanced generative tasks
-- Develop GAN and Diffusion-based clothing synthesis models
+- Work with GAN and Diffusion-based clothing synthesis models
 
 ### 👋 If you have any questions about AI, feel free to email me!
 
