@@ -41,7 +41,6 @@ My primary areas of focus
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 ![TTS](https://img.shields.io/badge/Text_To_Speech-34A853?style=for-the-badge&logo=google&logoColor=white)
-![OpenVoice](https://img.shields.io/badge/OpenVoice-4A90E2?style=for-the-badge&logo=voice-recognition&logoColor=white)
 
 ### Data Processing & Web Scraping
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
