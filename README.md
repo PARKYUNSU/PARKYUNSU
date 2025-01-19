@@ -57,7 +57,7 @@ My primary areas of focus
 ---
 
 
-## 📊 GitHub Stats1
+## 📊 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKYUNSU&theme=dark&show_icons=true)  
 
