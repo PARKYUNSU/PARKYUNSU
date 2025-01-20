@@ -54,8 +54,6 @@ My primary areas of focus
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Lightning](https://img.shields.io/badge/Lightning-0072EF?style=for-the-badge&logo=lightning&logoColor=white)
 
----
-
 
 ## 📊 GitHub Stats
 
