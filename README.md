@@ -61,6 +61,6 @@ My primary areas of focus
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKYUNSU&theme=dark&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PARKYUNSU&theme=microsoft)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PARKYUNSU&theme=microsoft&card_width=470)](https://git.io/streak-stats)
 
 
