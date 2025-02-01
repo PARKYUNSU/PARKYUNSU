@@ -8,7 +8,7 @@
 [![Netlify](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://lucent-medovik-bde7e5.netlify.app/)
 
 >My personal website showcasing projects, skills, and more.  
->**Check it out** by clicking the badge above!
+>**🎖️Check it out** by clicking the badge above!🎖️
 
 ## 📩 Connect with Me
 
