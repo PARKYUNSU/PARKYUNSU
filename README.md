@@ -2,6 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20YUNSU%20PARK's%20GitHub&fontSize=50&fontAlign=50&fontAlignY=40&desc=AI%20Engineer%20and%20Visionary%20Developer&descAlign=50&descAlignY=55)
 
+
+## 🌐 My Portfolio
+
+[![Netlify](https://img.shields.io/badge/Visit%20My%20Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://lucent-medovik-bde7e5.netlify.app/)
+
+> **Lucent-Medovik**: My personal website showcasing projects, skills, and more.  
+> **Check it out** by clicking the badge above!
+
 ## 📩 Connect with Me
 
 [![Naver Mail](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:yunsu4846@naver.com)
