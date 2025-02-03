@@ -25,7 +25,6 @@ My primary areas of focus
 - Conduct research on image retrieval
 - Explore self-supervised learning methods
 - Solve problems in data-scarce scenarios with few-shot and zero-shot learning techniques
-- Address challenges in noisy image segmentation using JointNet
 - Work with GLIGEN and ControlNet for advanced generative tasks
 - Work with GAN and Diffusion-based clothing synthesis models
 
