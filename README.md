@@ -15,22 +15,6 @@
 [![Naver Mail](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:yunsu4846@naver.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qkrdbstn24@gmail.com)
 
-I am an AI engineer and Data Scientist. I strive to advance practical AI solutions through scalable methods that balance performance and computational efficiency.
-
-In addition to computer vision (CV), I have a strong interest in natural language processing (NLP) and text-to-speech (TTS), exploring innovative approaches to integrate these fields effectively.
-
-My primary areas of focus
-
-- Develop lightweight models for resource-constrained environments
-- Conduct research on image retrieval
-- Explore self-supervised learning methods
-- Solve problems in data-scarce scenarios with few-shot and zero-shot learning techniques
-- Work with GLIGEN and ControlNet for advanced generative tasks
-- Work with GAN and Diffusion-based clothing synthesis models
-
-### 👋 If you have any questions about AI, feel free to email me!
-
-
 ## 🛠️ My Skills
 
 ### Programming Languages
